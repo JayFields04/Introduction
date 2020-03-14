@@ -1,5 +1,3 @@
-# hello-world
+# Hello World!!
 
-Hello All!
-
-Just a motivated college student, trying to make a dream into a profession. Feel free to check out my resume to see more.
+Welcome to my GitHub feel free to look at my resume and other repositories to see more.
